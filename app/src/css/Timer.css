@@ -1,0 +1,13 @@
+.timer {
+    display:flex;
+}
+
+.timer__body--rotation90 {
+    transform: rotate(90deg);
+}
+.timer__body--rotation180 {
+    transform: rotate(180deg);
+}
+.timer__body--rotation270 {
+    transform: rotate(270deg);
+}
